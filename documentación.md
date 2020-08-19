@@ -22,7 +22,8 @@ El trabajo se desarrollos en los siguiente ambientes:
 
 - Ubuntu 18.04 LTS: SO operativo principal utilizado por uno de los integrantes.
 - AWS Educate: Herramienta principal donde se montará el servidor virtual con los servicios.
-- Agregue los suyos.
+- Elastix server (basado en CentOS)
+- LinPhone
 
 ## Diseño
 
