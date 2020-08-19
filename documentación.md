@@ -73,7 +73,8 @@ Por temas de mayor entendimiento de la herramienta por el estudiante, a parte qu
 
 ## Autoevalución
 
-### Kevin Segura: Se termino la investigación, mientras que el servidor web quedo habilitado para el uso del CMS-Wordpress con su respectiva base de datos, un servidor de correos electronicos, OwnCloud, conexión por VPN y un domino conocido por los servidores DNS. La principal limitante sin dudas fue el tiempo, ya que había que investigar mucho a la vez que se tenían trabajos y examenes finales de otros cursos, también el desconocimiento de muchas herramientas como AWS, Docker, y el uso de los servicios como tal, provocaron diversos problemas que alerdaron el proceso. En este caso no se escribio código como tal por lo que no se requirió la herramienta git, y todo el proceso fue almacenado en los respectivos ambientes de trabajos.
+### Kevin Segura: 
+Se termino la investigación, mientras que el servidor web quedo habilitado para el uso del CMS-Wordpress con su respectiva base de datos, un servidor de correos electronicos, OwnCloud, conexión por VPN y un domino conocido por los servidores DNS. La principal limitante sin dudas fue el tiempo, ya que había que investigar mucho a la vez que se tenían trabajos y examenes finales de otros cursos, también el desconocimiento de muchas herramientas como AWS, Docker, y el uso de los servicios como tal, provocaron diversos problemas que alerdaron el proceso. En este caso no se escribio código como tal por lo que no se requirió la herramienta git, y todo el proceso fue almacenado en los respectivos ambientes de trabajos.
 
 #### Evaluación:
 DataBase, WebServer y CMS sin Kubernetes: 8
