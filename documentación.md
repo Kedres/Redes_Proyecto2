@@ -73,10 +73,69 @@ Por temas de mayor entendimiento de la herramienta por el estudiante, a parte qu
 
 ## Autoevalución
 
-### Kevin Segura:
+### Kevin Segura: Se termino la investigación, mientras que el servidor web quedo habilitado para el uso del CMS-Wordpress con su respectiva base de datos, un servidor de correos electronicos, OwnCloud, conexión por VPN y un domino conocido por los servidores DNS. La principal limitante sin dudas fue el tiempo, ya que había que investigar mucho a la vez que se tenían trabajos y examenes finales de otros cursos, también el desconocimiento de muchas herramientas como AWS, Docker, y el uso de los servicios como tal, provocaron diversos problemas que alerdaron el proceso. En este caso no se escribio código como tal por lo que no se requirió la herramienta git, y todo el proceso fue almacenado en los respectivos ambientes de trabajos.
+
+#### Evaluación:
+DataBase, WebServer y CMS sin Kubernetes: 8
+VPN: 9 
+CMS con Kubernetes: 6
+Acceso al CMS con nombre de dominio (DNS): 8
+2 Servicios con Docker-Compose: 8
+
+Cuarto de conferencias: 
+Endpoints: 
+Extensiones:
+Rutas Outgoing: 
+Rutas Ingoing: 
+Menú: 
+Transferencias: 
+Horarios - Voicemail:
+
+#### AutoEvaluación:
+- Aprendizaje de Servicios: 10
+- Aprendizaje de Central Telefónica:
+- Aprendizaje de laC(VPN): 9
+- Aprendizaje de PaaS(Plataforma como servicio): 10
 
 ### Manuel Ruiz:
 
+#### Evaluación:
+DataBase, WebServer y CMS sin Kubernetes: 
+VPN: 
+CMS con Kubernetes: 
+Acceso al CMS con nombre de dominio (DNS):
+2 Servicios con Docker-Compose: 
+
+Cuarto de conferencias: 
+Endpoints: 
+Extensiones:
+Rutas Outgoing: 
+Rutas Ingoing: 
+Menú: 
+Transferencias: 
+Horarios - Voicemail:
+
+#### AutoEvaluación:
+- Aprendizaje de Servicios: 
+- Aprendizaje de Central Telefónica:
+- Aprendizaje de laC(VPN):
+- Aprendizaje de PaaS(Plataforma como servicio): 
+
 ## Lecciones Aprendidas
 
+- Se aprendio como montar un servidor web para servicios con AWS, montar y utilizar algunos servicios a la vez que estos se implementaban con la herramienta docker. 
+- Se aprendió un poco de OpenStack, kubernetes y del uso de docker, su gran utilidad para la portabilidad y retrocompatibilidad.
+- Se pudo observar que no siempre todo es escribir código, más aún en redes, es requerido tener dedicación para aprender a utilizar las herramientas y servicios que están disponibles, y de saberse usar correctamente, representan un poderoso aliado para nuestras futuras labores como profesionales.
+- Se aprecio el proceso de cómo un servicio puede ser puesto en marcha de manera simple, pero a su vez gracias a la gran infraestructura e implementación de Internet es puesto a marcha para el uso de cualquier usuario que lo necesite.
+
 ## Bibliografía
+
+- AWS.(2020). Encuentre los tutoriales prácticos para sus necesidades de AWS. Recuperado de: https://aws.amazon.com/es/getting-started/hands-on/
+- Martinez, P.(2018). Comandos Docker y Docker-Compose. Recuperado de: https://medium.com/@pablomp/comandos-docker-y-docker-compose-636b119b4e5
+- Git Hub.(2020). Wordpress. Recuperado de: https://hub.docker.com/_/wordpress
+- Git Hub.(2020). owncloud. Recuperado de: https://hub.docker.com/_/owncloud
+- Git Hub.(2020). analogic/poste.io. Recuperado de: https://hub.docker.com/r/analogic/poste.io
+- Git Hub.(2020). frapsoft/openssl. Recuperado de: https://hub.docker.com/r/frapsoft/openssl
+- Poster.io.(2020). Getting started. Recuperado de: https://poste.io/doc/
+- Docker Tips.(2020). Aprendiendo a utilizar Docker Compose. Recuperado de: https://dockertips.com/utilizando-docker-compose
+- nixCraft.(2020). Ubuntu 18.04 LTS Set Up OpenVPN Server In 5 Minutes. Recuperado de: https://www.cyberciti.biz/faq/ubuntu-18-04-lts-set-up-openvpn-server-in-5-minutes/
