@@ -46,15 +46,19 @@ Por temas de mayor entendimiento de la herramienta por el estudiante, a parte qu
   
 - OwnCloud: Se descago desde https://raw.githubusercontent.com/owncloud/docs/master/modules/admin_manual/examples/installation/docker/docker-compose.yml, se hizo la respectiva configuarción para que funcionara, y finalmente se puso en marcha con "sudo docker-compose up -d". Para acceder al servicio es por medio de la misma dirección pero por el puerto 8080.
 
-- Mail Server:
+- Mail Server: Se utilizo el servidor de correos poste.io, también encontrado en https://hub.docker.com/, se hizo el pull respectivo, y se creo el contenedor docker con el comando "docker run --net=host -e TZ=Europe/Prague -v /your-data-dir/data:/data --name "mailserver" -h "mail.example.com" -t analogic/poste.io", y finalmente se pone a ejecutar con el comando "sudo doker start id-contenedor". Para acceder es por el mismo dominio de la instancia, mediante el puerto 80 o el 443.
 
 - VPN: Este se instalo en la propia instancia virtual, por medio de los comandos "wget https://git.io/vpn -O openvpn-install.sh" y "sudo ./openvpn-install.sh", ya una vez instalado es necesario estar en la carpeta donde se ubique el archivo .pem con las claves SSH de la instancia y ejecutar el comando "sudo scp -i [archivo.pem] ubuntu@[direccion pública]:/home/ubuntu/myvpn.ovpn /home/william/Escritorio/" para crear el archivo que servirá para la conexión con la VPN del servidor. Finalmente se usa "sudo systemctl start openvpn-server@server.service" para activar el servicio, para que los cliente se conecten a este se puede hacer con el comando "sudo systemctl start openvpn@client" después de haber copiado el archivo de conexión.
 
-- OpenSSL:
+- OpenSSL: Se hizo pull al docker de este servicio, a continuación se creo el certificado del server con el comando "docker run -it -v $(pwd):/export frapsoft/openssl req -nodes -new -newkey rsa:2048 -sha256 -out /export/cert.pem", el cual da como resultado un archivo .pem con el certificado. Para hacer uso del servicio es directamente desde la instancia con el comando "docker run -it --entrypoint /bin/ash frapsoft/openssl".
+
+- PBX: Haz lo tuyo manuel, aquí explico por encima como se artivo en servicio y como se utiliza.
 
 ## Actividades Realizadas por Estudiante
 
 ### Kevin Segura:
+
+- 
 
 ### Manuel Ruiz:
 
