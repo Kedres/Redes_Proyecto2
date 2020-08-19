@@ -36,17 +36,21 @@ Por temas de mayor entendimiento de la herramienta por el estudiante, a parte qu
 
 ## Instalación de Servicios
 
+- Web Server: Antes que nada, se creo un security Group para el manejo del tráfico, para este ejercicio se permitió todo el tráfico para mayor facilidad. Ya con esto se procedio a específicar las características de la instacia, se escogió hacer una máquina virtual de procesamiento moderado con 15 gigas de almacenamiento, ya que se considero que no es mucho lo que se necesitará a la vez que se deja un margen para que tampoco falte. Finalmente, se crearon una llaves privada SSH para conectarse a la instancia a tráves de mi máquina local y agregar los servicios por la terminal.
+
+- MySQL(RDS): Se busco el servicio dentro de AWS, dentro de él esta la opción "create", ahí pedirá la configuración deseada. Se escogio MySQL como se solicita en el proyecto, el Free Tier que era el que brindaba las condiciones más comodas para el servicio, se nombro como "cmsdatabase" con usuario maestro "admin" y password "123queso123", después de que levanto se procedio a ligarla a la instancia virtual EC2.
+
 ## Actividades Realizadas por Estudiante
 
-###Kevin Segura:
+### Kevin Segura:
 
-###Manuel Ruiz:
+### Manuel Ruiz:
 
 ## Autoevalución
 
-###Kevin Segura:
+### Kevin Segura:
 
-###Manuel Ruiz:
+### Manuel Ruiz:
 
 ## Lecciones Aprendidas
 
