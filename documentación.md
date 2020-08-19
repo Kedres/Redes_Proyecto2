@@ -80,17 +80,17 @@ Se termino la investigación, mientras que el servidor web quedo habilitado para
 DataBase, WebServer y CMS sin Kubernetes: 8
 VPN: 9 
 CMS con Kubernetes: 6
-Acceso al CMS con nombre de dominio (DNS): 8
-2 Servicios con Docker-Compose: 8
+Acceso al CMS con nombre de dominio (DNS): 9
+2 Servicios con Docker-Compose: 9
 
-Cuarto de conferencias: 
-Endpoints: 
-Extensiones:
-Rutas Outgoing: 
-Rutas Ingoing: 
-Menú: 
-Transferencias: 
-Horarios - Voicemail:
+Cuarto de conferencias: 10 
+Endpoints: 8
+Extensiones: 9
+Rutas Outgoing: 7
+Rutas Ingoing: 7
+Menú: 8
+Transferencias: 6
+Horarios - Voicemail: 10
 
 #### AutoEvaluación:
 - Aprendizaje de Servicios: 10
