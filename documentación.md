@@ -8,6 +8,7 @@ El trabajo se desarrollos en los siguiente ambientes:
 
 - Ubuntu 18.04 LTS: SO operativo principal utilizado por uno de los integrantes.
 - AWS Educate: Herramienta principal donde se montará el servidor virtual con los servicios.
+- Agregue los suyos.
 
 ## Diseño
 
@@ -31,11 +32,21 @@ Gracias a EC2, que ya cuenta con un generador automático de dominios utilizable
 
 Por temas de mayor entendimiento de la herramienta por el estudiante, a parte que fueron de los que mejor información se pudo encontrar, se decidio utilizar los servicios de owncloud y Email Server.
 
+### Central telefónica:
+
 ## Instalación de Servicios
 
 ## Actividades Realizadas por Estudiante
 
+###Kevin Segura:
+
+###Manuel Ruiz:
+
 ## Autoevalución
+
+###Kevin Segura:
+
+###Manuel Ruiz:
 
 ## Lecciones Aprendidas
 
