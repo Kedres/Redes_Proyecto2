@@ -58,7 +58,16 @@ Por temas de mayor entendimiento de la herramienta por el estudiante, a parte qu
 
 ### Kevin Segura:
 
-- 
+- Búsqueda de información para la investigacion de OpenShift. Horas invertidas: 2:30. Fecha: Lunes 3 de Agosto.
+- Búsqueda de un poco más de información y escritura de parte de la investigación. Horas invertidas: 3. Fecha: Miercoles 5 de Agosto.
+- Estudio de opciones para montar el Web Server. Horas invertidas: 1:30. Fecha: Lunes 10 de Agosto.
+- Estudio básico de como usar AWS y posibles formas de montar los servicios. Horas invertidas: 2. Fecha: Martes 11 de Agosto.
+- Creación de la instancia EC2, creación de la base de datos con RDS e investigación de dockers para los servicios descritos. Horas: 4:30. Fecha: Jueves 13 de Agosto.
+- Instalación y comprobación del funcionamiento de los servicios Wordpress y OwnCloud. Horas invertidas: 3. Fecha: Viernes 14 de Agosto.
+- Instalación de los servicios OpenSSL y OpenVPN, además de pruebas. Horas invertidas: 2:30. Fecha: Sabado 15 de Agosto.
+- Instalación y pruebas del servicio Mail Server, además de investigar como utilizar docker-compose a partir de los contenedores creados. Horas invertidas: 4. Fecha: Lunes 17 de Agosto.
+- Continuación de la creación de los archivos docker-compose. Problemas con la autentificación con OwnCLoud y con la creación del archivo docker-compose para el Mail Server, escritura de la documentación. Horas invertidas: 6. Fecha: Martes 18 de Agosto.
+- Horast totales invertidas: 29 horas.
 
 ### Manuel Ruiz:
 
